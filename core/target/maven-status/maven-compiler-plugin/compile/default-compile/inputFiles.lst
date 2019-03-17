@@ -1,0 +1,8 @@
+/home/david/Downloads/vidizzo/core/src/main/java/net/vidizzo/config/SecurityConfig.java
+/home/david/Downloads/vidizzo/core/src/main/java/net/vidizzo/config/UserDetailsServiceImpl.java
+/home/david/Downloads/vidizzo/core/src/main/java/net/vidizzo/config/JwtTokenAuthenticationFilter.java
+/home/david/Downloads/vidizzo/core/src/main/java/net/vidizzo/App.java
+/home/david/Downloads/vidizzo/core/src/main/java/net/vidizzo/repository/Client.java
+/home/david/Downloads/vidizzo/core/src/main/java/net/vidizzo/repository/Package.java
+/home/david/Downloads/vidizzo/core/src/main/java/net/vidizzo/config/JwtConfig.java
+/home/david/Downloads/vidizzo/core/src/main/java/net/vidizzo/config/JwtUsernameAndPasswordAuthenticationFilter.java

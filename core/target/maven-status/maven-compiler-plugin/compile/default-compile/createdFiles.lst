@@ -1,0 +1,10 @@
+net/vidizzo/config/JwtTokenAuthenticationFilter.class
+net/vidizzo/config/JwtUsernameAndPasswordAuthenticationFilter$UserCredentials.class
+net/vidizzo/repository/Client.class
+net/vidizzo/repository/Package.class
+net/vidizzo/config/UserDetailsServiceImpl$AppUser.class
+net/vidizzo/config/JwtUsernameAndPasswordAuthenticationFilter.class
+net/vidizzo/config/UserDetailsServiceImpl.class
+net/vidizzo/config/JwtConfig.class
+net/vidizzo/config/SecurityConfig.class
+net/vidizzo/App.class
